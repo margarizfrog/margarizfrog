@@ -1,1 +1,13 @@
-# FroggyRandomLab
+### Hi 🖖🏻 my friend
+<details><summary><b> My Project </b></summary>
+
+<ul>
+  <li><a href="">AXIT</a></li>
+  <li><a href="">Stopwatch</a></li>
+  <li><a href="">FBI Wanted</a></li>
+  <li><a href="">Todo-List</a></li>
+</ul>
+</details>
+
+### 🐸 Codewars:
+<img src='https://www.codewars.com/users/mrgrfrg/badges/micro'>
